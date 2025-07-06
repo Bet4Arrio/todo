@@ -4988,6 +4988,7 @@ name = "ui"
 version = "0.1.0"
 dependencies = [
  "api",
+ "chrono",
  "dioxus",
 ]
 
@@ -5223,6 +5224,7 @@ dependencies = [
 name = "web"
 version = "0.1.0"
 dependencies = [
+ "chrono",
  "dioxus",
  "ui",
 ]
